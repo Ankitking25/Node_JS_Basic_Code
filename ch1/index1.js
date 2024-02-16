@@ -1,0 +1,1 @@
+console.log("Use npm to setup node js json.package");
